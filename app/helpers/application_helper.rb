@@ -1,5 +1,4 @@
 module ApplicationHelper
-  
   # Handle page Title generation
   def title
     base_title = "Ruby on Rails Tutorial Sample App"
@@ -11,5 +10,4 @@ module ApplicationHelper
       
   end
     
-
 end
